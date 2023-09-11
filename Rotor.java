@@ -1,4 +1,3 @@
-//TODO
 public class Rotor{
     String rotor;
     char topChar;

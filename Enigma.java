@@ -1,4 +1,3 @@
-//TODO
 public class Enigma{
     Rotor inner;
     Rotor middle;
